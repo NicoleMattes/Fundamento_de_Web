@@ -13,13 +13,13 @@ a{
 
 body{
         background-color: rgba(34, 34, 34, 0.034);
-        background: url(wallpaper.png);
+        background: url(img/wallpaperLiso.png);
         background-position: center;
         background-repeat: no-repeat;
         background-color: rgb(6, 0, 29);
-        height: 100vh;
+        height: 10%;
         font-family: "Indie Flower";
-        
+
 }
 
 .menu-horizontal{
