@@ -52,6 +52,11 @@ body{
         box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
 }
 
+.menu-horizontal ul li a a{
+        float: right;
+        background-color:rgba(0,255,234,0.329)   
+}
+
 .container-lang{
     display: flex;
     justify-content: space-evenly;
