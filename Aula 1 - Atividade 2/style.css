@@ -261,7 +261,7 @@ input[type=submit]:hover {
         padding: 30px 35px;
         background:rgb(43, 102, 104);
         border-radius: 20px;
-        box-shadow: 0px 10px 40 px rgb(12, 79, 82);;
+        box-shadow: 0px 10px 40 px rgb(12, 79, 82);
 }
 
 .card-Login > h1{
@@ -275,6 +275,7 @@ input[type=submit]:hover {
         flex-direction: column;
         align-items: flex-start;
         justify-content: center;
+        margin: 10px;
 }
 
 .textfield > input{
@@ -282,5 +283,30 @@ input[type=submit]:hover {
         border:nome;
         border-radius: 10px;
         padding: 15px;
-        background-color:rgb(231, 231, 231); 
+        background-color:rgba(248, 248, 248, 0.336); 
+        box-shadow: 0px 10px 40 px rgb(12, 79, 82);
+        outline: none;
+        box-sizing: border-box;
+}
+
+.textfield > label{
+        color:rgb(217, 254, 255);
+        margin-bottom: 10pc;
+}
+
+.textfield > input::placeholder{
+        color: rgb(235, 232, 232);
+}
+
+.btn-login{
+        width: 100%;
+        padding: 16px 0px;
+        margin: 25px;
+        border: nome;
+        border-radius: 8px;
+        outline: Nome;
+        text-transform: uppercase;
+        
+
+
 }
