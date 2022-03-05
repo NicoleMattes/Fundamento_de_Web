@@ -219,3 +219,12 @@ input[type=submit]:hover {
         line-height:2em;
         border-radius: 15px;
 }
+
+.main-logins{
+        width: 100vw;
+        height: 100vh;
+        background-color:rgb(0, 247, 255);
+        display: flex;
+        justify-content: center;
+        justify-items: center;
+}
