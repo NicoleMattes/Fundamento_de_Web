@@ -10,7 +10,7 @@ a{
 
 body{
         background-color: rgba(34, 34, 34, 0.034);
-        background: url(WallpaperLiso.png);
+        background: url(wallpaper.png);
         background-position: center;
         background-repeat: no-repeat;
         background-color: rgb(6, 0, 29);
@@ -51,6 +51,7 @@ body{
         background-color:rgba(0, 255, 234, 0.329);
         box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
 }
+
 
 .menu-horizontal ul li a a{
         float: right;
