@@ -220,11 +220,26 @@ input[type=submit]:hover {
         border-radius: 15px;
 }
 
-.main-logins{
+/* LOGIN */
+
+.main-login{
         width: 100vw;
         height: 100vh;
         background-color:rgb(0, 247, 255);
         display: flex;
         justify-content: center;
         justify-items: center;
+}
+
+.left-login{
+        width: 50vw;
+        height: 50vh;
+        display: flex;
+        justify-content: center;
+        justify-items: center;
+        flex-direction: column;
+}
+
+.left-login > h1 {
+        color:#014138
 }
