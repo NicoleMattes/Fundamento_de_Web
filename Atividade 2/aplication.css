@@ -1,0 +1,155 @@
+body {
+  width: 95%;
+  height: 100vh;
+  width: 100vw;
+  max-width: 950px;
+
+  margin: auto;
+  background: url(fundoO.jpg);
+
+  COLOR: white;
+
+
+  line-height: 2em;
+}
+
+
+main {
+  padding: 20px 40px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-radius: 15px;
+  background-color: #000009da;
+}
+
+.logo,
+.image1,
+.image2,
+.image3,
+.image4,
+.image5,
+.image6,
+.image7 {
+  text-align: center;
+}
+
+.band-name {
+  line-height: 1.5em;
+}
+
+.logo {
+  margin-bottom: 5%;
+  margin: top 2px;
+  width: auto;
+  height: auto;
+}
+
+.image1 {
+  text-align: center;
+  margin-top: 4%;
+}
+
+.reason1,
+.reason2,
+.reason3,
+.reason4,
+.reason5 {
+  margin-top: 20px;
+}
+
+.image2 {
+  text-align: center;
+  margin: top 4%;
+  margin-bottom: 1%;
+}
+
+.image3 {
+  text-align: center;
+  margin-top: 4%;
+  margin-bottom: 1%;
+}
+
+.image4 {
+  text-align: center;
+  margin-top: 4%;
+  margin-bottom: 1%;
+}
+
+.image5 {
+  text-align: center;
+  margin-top: 4%;
+  margin-bottom: 1%;
+}
+
+.image6 {
+  text-align: center;
+  margin-top: 4%;
+  margin-bottom: 1%;
+}
+
+.image7 {
+  text-align: center;
+  margin-top: 4%;
+  margin-bottom: 1%;
+}
+
+.image8 {
+  text-align: center;
+  margin-top: 4%;
+  margin-bottom: 1%;
+}
+
+.image9 {
+  text-align: center;
+  margin-top: 4%;
+  margin-bottom: 1%;
+}
+
+.image10 {
+  text-align: center;
+  margin-top: 4%;
+  margin-bottom: 1%;
+}
+
+.GRAMMYs {
+  MARGIN: 30PX 0px;
+  text-align: center;
+  width: 100%
+}
+
+.final {
+  margin-top: 50px;
+  font-size: 19px;
+}
+
+.GRAMMYs table {
+  background: #700b0bbe;
+  border-radius: 15px;
+  padding: 40px;
+  margin: 0 auto
+}
+
+tr {
+  margin: 30px 30px 30px 30px
+}
+
+th {
+  margin: 30px 30px 30px 30px;
+}
+
+.GRAMMYs tbody {
+  margin: 0 auto;
+}
+
+th {
+  margin: 30px 30px 30px 30px;
+  text-align: left;
+  font-size: 22px;
+  font-weight: bold;
+}
+
+tr {
+  margin: 30px 30px 30px 30px;
+  text-align: left;
+
+}
